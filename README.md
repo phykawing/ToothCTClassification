@@ -94,8 +94,8 @@ See [`requirements.txt`](requirements.txt) for the full package list.
 |---|---|
 | [`Thresholding.ipynb`](Thresholding.ipynb) | CT scan preprocessing and tooth segmentation |
 | [`Classification.ipynb`](Classification.ipynb) | Multi-architecture CNN tooth classification |
-| [`Final Report.pdf`](Final Report.pdf) | Full project report |
-| [`Presentation Slides.pptx`](Presentation Slides.pptx) | Project presentation slides |
+| [`Final Report.pdf`](Final%20Report.pdf) | Full project report |
+| [`Presentation Slides.pptx`](Presentation%20Slides.pptx) | Project presentation slides |
 
 ---
 
