@@ -1,0 +1,19 @@
+# Requirements for: Development of an AI Tool to Identify Teeth from 3D Imaging
+# Python environment: PyTorch291 (Anaconda)
+#
+# For GPU support, install PyTorch via conda instead:
+#   conda install pytorch torchvision pytorch-cuda=11.8 -c pytorch -c nvidia
+
+torch>=2.0.0
+torchvision>=0.15.0
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+pynrrd
+pydicom
+opencv-python
+connected-components-3d
+Pillow
+joblib
